@@ -127,9 +127,8 @@ The revised version will be published with an updated effective date. We encoura
 For privacy questions, data requests, or concerns about StudyAI, contact:
 
 **App Name:** StudyAI  
-**Developer Name:** [Your Developer or Company Name]  
-**Contact Email:** [Your Support Email Address]  
-**Website:** [Your Website URL, if available]
+**Developer Name:** [PROSENJIT KANJI]  
+**Contact Email:** [PROSENJITKANJI143@GMAIL.COM]  
 
 Please replace the placeholders with your actual contact information before publishing this policy.
  necessary information to provide AI-powered learning, manage accounts, save study progress, and improve app performance. Your questions or uploaded content may be processed by AI service providers. We do not sell personal information. You can request data deletion by contacting our support email.
